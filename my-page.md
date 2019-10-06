@@ -3,6 +3,9 @@ layout: page
 title: My page
 subtitle: test page
 img_path: "/images/7_thumb.jpg"
+menu:
+  main:
+    weight: 5
 
 ---
 1.  vwfrexavrtsvrtxvdtbt
