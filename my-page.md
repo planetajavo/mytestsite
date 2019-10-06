@@ -3,7 +3,6 @@ layout: page
 title: My page
 subtitle: test page
 img_path: "/images/7_thumb.jpg"
-published: false
 
 ---
 1.  vwfrexavrtsvrtxvdtbt
