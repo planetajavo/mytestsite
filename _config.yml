@@ -1,10 +1,10 @@
 ---
-title: Stackbit Azimuth Theme
+title: DigitalNomadPics
 baseurl: "/"
 permalink: "/:title/"
-palette: green
+palette: orange
 header:
-  title: Azimuth
+  title: Javo
   logo_img: images/logo.png
   has_nav: true
   menu:
