@@ -1,4 +1,17 @@
 ---
 label: Test_Template
 hide_body: true
-fields: []
+fields:
+- name: test
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: global-site-config
+      file: 
+      path: 
+  label: test
+  description: desc
