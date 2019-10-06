@@ -2,6 +2,11 @@
 label: Test_Template
 hide_body: true
 fields:
+- name: tttt
+  type: text
+  config:
+    required: false
+  label: tttt
 - name: test
   type: select
   default: []
@@ -15,3 +20,12 @@ fields:
       path: 
   label: test
   description: desc
+- name: eee
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: eee
